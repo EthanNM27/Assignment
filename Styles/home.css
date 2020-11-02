@@ -1,0 +1,38 @@
+
+h1 {
+	font-size: 37px;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:visited {
+	color: #FCF6F5FF;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #F2AA4CFF;
+}
+
+header {
+	border-width: 2px;
+	margin-left: 35%;
+	margin-right: 35%;
+	border: solid;
+	text-align: center;
+	background-color: #2D2926FF;
+	opacity: 0.8;
+	color: #FCF6F5FF;
+	border-color: #2D2926FF;
+}
+
+body {
+	text-align: center;
+	background: url(../Images/background4.jpg);
+}
+
+img {
+	padding: 20px;
+}
